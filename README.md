@@ -76,18 +76,19 @@ I am pursuing a **BS in Computer Science at COMSATS University Islamabad, Lahore
 
 ## 🚀 Selected Projects
 
-### 📍 Usttaad G
+### 📍 Ustaad G
 
-A service-marketplace mobile application developed with **React Native, Expo, TypeScript, Firebase, and Firestore**.
+<p>
+  <a href="https://github.com/amalamir608-dev/ustaad-g-app">
+    <img
+      width="440"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=amalamir608-dev&repo=ustaad-g-app&theme=github_dark&hide_border=true"
+      alt="Ustaad G repository"
+    />
+  </a>
+</p>
 
-Key functionality includes:
-
-- Worker discovery and booking
-- Location-based services
-- User and worker verification
-- Real-time chat
-- Payment functionality
-- Service-status tracking
+> **Active development:** Authentication and user profiles are connected; marketplace integrations are in progress.
 
 ### 🌦️ Weather Forecast Mobile App
 
